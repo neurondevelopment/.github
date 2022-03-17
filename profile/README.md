@@ -1,14 +1,14 @@
-## Hi there 👋
+[![Cryptonized's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzCryptonized&theme=merko)](https://github.com/ItzCryptonized)
+[![Hamstus' GitHub stats](https://github-readme-stats.vercel.app/api?username=hamstus&theme=tokyonight)](https://github.com/hamstus)
 
-🥵🔥 I 😳 LOVE 👉 AMONG 🥶 US 👈 🔥 🥵
 
-<!--
+<h2> Welcome to Neuron Development!</h2>
 
-**Here are some ideas to get you started:**
+<img align='right' src="https://cdn.discordapp.com/attachments/849289892068065310/954062297003860028/logo.png" width="230">
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p>Providing traditional & unique discord bots for all users, to allow easy setup and management of your servers. We aim to create easy to use, highly customisable bots, for both developers to take parts of, as well as guild owners to use as a whole package.</p>
+<p>Join our <a href="https://discord.gg/KdGTQRD">discord</a> for support, upcoming bots, giveaways, and more!
+
+
+
+---
